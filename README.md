@@ -42,6 +42,7 @@ FindCMS takes args like
 
 # Installation
 
+```
 git clone https://github.com/absolutelyxfunny/FindCMS
 - cd FindCMS
-- pip install -r requirements.txt
+- pip install -r requirements.txt```
